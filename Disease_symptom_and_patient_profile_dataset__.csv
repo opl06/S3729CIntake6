@@ -1,4 +1,4 @@
-Disease,Fever,Cough,Fatigue,Difficulty Breathing,Person ID,Age,Gender,Cholesterol Level,Systolic,Diastolic,Resting Heart Rate,Stress Level,Outcome Variable
+disease,fever,cough,fatigue,difficulty_brthg,person_id,age,gender,cholesterol Level,systolic_bp,diastolic_bp,resting_hrt_rate,stress_lvl,outcome_variable
 Influenza,Yes,No,Yes,Yes,1,19,Female,Normal,125,80,77,6,Positive
 Common Cold,No,Yes,Yes,No,2,25,Female,Normal,125,80,75,8,Negative
 Eczema,No,Yes,Yes,No,3,25,Female,Normal,140,90,75,8,Negative
